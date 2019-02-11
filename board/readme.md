@@ -102,7 +102,7 @@ Comment 플러그인과 같이 사용하여 댓글을 작성할 수 있습니다
 #### 확장 필드 종류
 * Category - (분류/게시글의 종류)
 * Number - (숫자 유형의 데이터)
-* Text - (글자 유형의 데이터_
+* Text - (글자 유형의 데이터)
 * boolean - (불리언 / 참거짓)
 * Address - (주소/ 동호수)
 * Cell phone number - (휴대폰 번호)
