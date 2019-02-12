@@ -26,10 +26,12 @@
    (추천만 사용하거나, 비추천만 사용할 수도 있으며, 둘다 사용할 수도 있습니다.)
 
 
+# Usage
 
-# Installtaion
 
-## Caution
+### Installtaion
+
+### Caution
 본 플러그인은 XE3에 기본 포함된 플러그인이 아닙니다.
 설치할때에는 본인의 웹사이트와 동일한 환경의 테스트 환경을 만든 후 충분한 테스트 이후 적용하시기 바랍니다.
 
@@ -51,11 +53,8 @@ $ php artisan plugin:install social_login
 4. 활성화 완료!
 
 
+### SNS 토큰을 설정 & 발급 받는 방법
 
-
-
-
-# Usage
 ``관리페이지 > 회원 > 소셜 로그인``에서 사용하려는 서비스의 ``소셜로그인 프로바이더 설정``을 등록 후 사용할 수 있습니다.
 
 ``소셜로그인 프로바이더 설정``에서 서비스 별로 발급한 client_id와 client_secret 값을 입력할 수 있으며, 각 서비스의 애플리케이션 등록 시 필요한 callback url을 확인할 수 있습니다.
@@ -66,5 +65,20 @@ $ php artisan plugin:install social_login
 * Twitter의 로그인 API는 [이곳](https://developer.twitter.com/en/apps)에서 관리 & 생성 할 수 있습니다.
 * Github의 로그인 API는 [이곳](https://github.com/settings/developers)에서 관리 & 생성 할 수 있습니다.
 * Google의 로그인 API는 [이곳](https://console.developers.google.com/)에서 관리 & 생성 할 수 있습니다.
+
+### 스킨을 설정하는 방법
+소셜로그인의 스킨을 변경할 수 있습니다.
+스킨을 제작, 변경 하려면 아래를 따라주세요.
+
+1. ``관리페이지 > 회원 > 소셜로그인`` 을 클릭해주세요.
+2. 최상단의 ``스킨``란에 있는 사용하려는 스킨을 클릭해주세요.
+3. 스킨 바로 아래의 저장버튼을 누르면 완료!
+
+## Installation specification
+* Minimum installation environment
+   XE3, PHP 7.0 or later
+* Recommended installation environment
+   XE3, PHP 7.1 or later
+
 
 
