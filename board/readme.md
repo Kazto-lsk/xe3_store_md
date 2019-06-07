@@ -7,7 +7,7 @@
 이 플러그인을 사용하여, 게시판 기능을 사용할 수 있습니다.
 
 
-## What can I do?
+## 어떤 기능을 제공하나요?
 
 본 플러그인을 사용하여 커뮤니티를 구축/운영 함에 있어서 기본적인 게시판 기능을 수행할 수 있으며,
 Comment 플러그인과 같이 사용하여 댓글을 작성할 수 있습니다.
@@ -34,7 +34,7 @@ Comment 플러그인과 같이 사용하여 댓글을 작성할 수 있습니다
 * 확장 변수를 사용하여, 원하는 정보를 양식처럼 받아서 손쉽게 입력하고, 받아볼 수 있습니다.
 
 
-# Usage
+# 사용방법
 
 ## Installation
 본 플러그인은 XE3에 기본 포함된 플러그인입니다.
@@ -125,12 +125,12 @@ Comment 플러그인과 같이 사용하여 댓글을 작성할 수 있습니다
 
 
 
-## Installation specification
+## 요구/최소 사양
 * Minimum installation environment
-   XE3, PHP 7.0 or later
+   XE3, PHP 7.0 or later, Require core version
 * Recommended installation environment
-   XE3, PHP 7.1 or later
+   XE3, PHP 7.1 or later, Require core version
 
-## Caution
+## 주의
 본 플러그인과의 의존성이 있는 Comment 플러그인을 삭제하는 경우 정상적인 플러그인 사용이 되지 않을 수 있습니다.
 
