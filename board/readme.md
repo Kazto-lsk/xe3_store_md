@@ -2,9 +2,8 @@
   <img src="https://raw.githubusercontent.com/xpressengine/plugin-board/master/icon.png">
  </p>
 
-# XE3 Board Plugin
+# 게시판 플러그인
 이 플러그인은 Xpressengine3(이하 XE3)의 플러그인입니다.
-
 이 플러그인을 사용하여, 게시판 기능을 사용할 수 있습니다.
 
 
