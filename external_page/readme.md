@@ -2,11 +2,11 @@
   <img src="https://raw.githubusercontent.com/xpressengine/plugin-external_page/master/icon.png">
  </p>
 
-# XE3 External Page Plugins
+# 외부페이지 플러그인
 이 어플리케이션은 Xpressengine3(이하 XE3)의 플러그인입니다.
 이 플러그인은 XE3에서 외부 페이지 출력 기능을 제공합니다.
 
-## What can I do?
+## 어떤 기능을 제공하나요?
 
 본 플러그인을 사용함으로, 내 FTP에 존재하는 HTML또는 PHP 또는 외부 위젯 등을 가져올 수 있습니다.
 본 플러그인은 아래의 기능을 지원합니다.
@@ -16,12 +16,11 @@
 
 
 
-# Usage
+# 사용방법
 
+## 설치
 
-### Installtaion
-
-### Caution
+### 주의
 
 따로 설정을 통해 활성화 하지 않아도 되지만, 다른 이유로 인해 재설치 또는 재활성화 해야하는 경우에 따라주세요.
 
@@ -51,7 +50,7 @@
 4. 삭제 완료
 
 
-## Installation specification
+## 요구/최소 사양
 * Minimum installation environment
    XE3, PHP 7.0 or later
 * Recommended installation environment
