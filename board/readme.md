@@ -36,7 +36,7 @@ Comment 플러그인과 같이 사용하여 댓글을 작성할 수 있습니다
 
 # 사용방법
 
-## Installation
+## 
 본 플러그인은 XE3에 기본 포함된 플러그인입니다.
 따로 설정을 통해 활성화 하지 않아도 되지만, 다른 이유로 인해 재설치 또는 재활성화 해야하는 경우에 따라주세요.
 
@@ -126,11 +126,9 @@ Comment 플러그인과 같이 사용하여 댓글을 작성할 수 있습니다
 
 
 ## 요구/최소 사양
-* Minimum installation environment
-   XE3, PHP 7.0 or later, Require core version
-* Recommended installation environment
-   XE3, PHP 7.1 or later, Require core version
+* Minimum installation environment : XE3, PHP 7.0 or later, Require core version
 
+* Recommended installation environment : XE3, PHP 7.1 or later, Require core version
 ## 주의
 본 플러그인과의 의존성이 있는 Comment 플러그인을 삭제하는 경우 정상적인 플러그인 사용이 되지 않을 수 있습니다.
 
