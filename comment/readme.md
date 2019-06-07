@@ -2,12 +2,12 @@
   <img src="https://raw.githubusercontent.com/xpressengine/plugin-comment/master/icon.png">
  </p>
 
-# XE3 Comment Plugin
+# 댓글 플러그인
 이 플러그인은 Xpressengine3(이하 XE3)의 플러그인입니다.
 이 플러그인을 사용하여, 댓글 기능을 사용할 수 있습니다.
 
 
-## What can I do?
+## 어떤 기능을 제공하나요?
 
 본 플러그인을 사용하여 댓글 기능을 사용할 수 있습니다.
 아래의 강력한 기능을 사용해보세요!
@@ -16,9 +16,9 @@
 * 자유로운 소통을 위한 파일첨부 기능
 
 
-# Usage
+# 사용방법
 
-## Installation
+## 설치
 본 플러그인은 XE3에 기본 포함된 플러그인입니다.
 따로 설정을 통해 활성화 하지 않아도 되지만, 다른 이유로 인해 재설치 또는 재활성화 해야하는 경우에 따라주세요.
 
@@ -84,7 +84,6 @@
 
 
 ## Installation specification
-* Minimum installation environment
-   XE3, PHP 7.0 or later
-* Recommended installation environment
-   XE3, PHP 7.1 or later
+* Minimum installation environment : XE3, PHP 7.0 or later, Require core version
+
+* Recommended installation environment : XE3, PHP 7.1 or later, Require core version
