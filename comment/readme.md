@@ -83,7 +83,7 @@
 5.  설정 완료!
 
 
-## Installation specification
+## 요구/최소 사양
 * Minimum installation environment : XE3, PHP 7.0 or later, Require core version
 
 * Recommended installation environment : XE3, PHP 7.1 or later, Require core version
